@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dhanabalan AKA 'AwfulAlien' 
-- 👀 I’m interested in Coding to Create something
-- 🌱 I’m currently learning Web technologies(Backend)
+- 👋 Hi, I’m AwfulAlien AKA DD 
+- 👀 Passionated in Codes
+- 🌱 On a mission to become a god damn Fullstack developer
 - 📫 How to reach me?? - dhana22busy@gmail.com
